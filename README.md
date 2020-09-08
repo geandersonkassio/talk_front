@@ -1,4 +1,4 @@
-# frontend
+# Talk frontend
 
 ## Project setup
 ```
