@@ -1,8 +1,13 @@
-# frontend
+# Talk frontend
 
 ## Project setup
 ```
 npm install
+```
+
+## Configure variable baseApiUrl
+```
+file: src/gobal.js
 ```
 
 ### Compiles and hot-reloads for development
